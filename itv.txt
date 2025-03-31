@@ -19,7 +19,7 @@ CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hn
 CCTV2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=8878432746825677699&livemode=1&stbId=toShengfen&mode=1&$2M-wasusyt
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000002000020548&livemode=1&stbId=toShengfen&mode=1&$4M-bestzb
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=toShengfen&mode=1&$4M-HEVC-bestzb
-CCTV3,http://gslbserv.itv.cmvideo.cn: Ascendance=1&stbId=toShengfen&mode=1&$8M-wasusyt
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=toShengfen&mode=1&$8M-wasusyt
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=toShengfen&mode=1&$8M-bestzb
 CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=toShengfen&mode=1&$4M-bestzb
 CCTV4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265004&livemode=1&stbId=toShengfen&mode=1&$4M-HEVC-bestzb
@@ -30,7 +30,7 @@ CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=be
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265005&livemode=1&stbId=toShengfen&mode=1&$4M-HEVC-bestzb
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=toShengfen&mode=1&$8M-wasusyt
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=toShengfen&mode=1&$8M-bestzb
-CCT6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=toShengfen&mode=1&$4M-bestzb
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=toShengfen&mode=1&$4M-bestzb
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=toShengfen&mode=1&$4M-HEVC-bestzb
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=toShengfen&mode=1&$8M-wasusyt
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=toShengfen&mode=1&$8M-bestzb

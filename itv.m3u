@@ -3,7 +3,7 @@
         {
             "name": "itv",
             "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sln654360/iptv-test/refs/heads/main/itv.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sln654360/itv-test/refs/heads/main/itv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",

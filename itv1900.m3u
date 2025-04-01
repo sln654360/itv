@@ -6,7 +6,7 @@
             "url": "https://gcore.jsdelivr.net/gh/sln654360/itv/itv.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "logo": "https://upload.112114.xyz/tv/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -25,7 +25,7 @@
             "url": "https://gcore.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "logo": "https://upload.112114.xyz/tv/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -37,7 +37,7 @@
             "url": "https://gcore.jsdelivr.net/gh/suxuang/myIPTV/ipv6.m3u",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
+            "logo": "https://upload.112114.xyz/tv/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"

@@ -6,7 +6,7 @@
             "url": "https://gcore.jsdelivr.net/gh/sln654360/itv/itv.txt",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
-            "logo": "https://upload.112114.xyz/tv/{name}.png",
+            "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png",
             "catchup": {
                 "type": "append",
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"

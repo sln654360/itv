@@ -10,7 +10,7 @@
             "catchup": {
                 "type": "append",
                 "replace": "livemode=1,livemode=4",
-                "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+                "source": "?starttime={utc:YmdTHMS}&endtime={utcend:YmdTHMS}"
             }
         }
     ],

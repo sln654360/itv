@@ -9,7 +9,8 @@
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "catchup": {
                 "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+                "replace": "livemode=1,livemode=4",
+                "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
             }
         },
         {
@@ -25,11 +26,7 @@
             "url": "https://gcore.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
+            "logo": "https://live.fanmingming.cn/tv/{name}.png"
         },
         {
             "name": "iptv-多线路2",
@@ -37,11 +34,7 @@
             "url": "https://gcore.jsdelivr.net/gh/suxuang/myIPTV/ipv6.m3u",
             "ua": "okhttp/3.15",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
+            "logo": "https://live.fanmingming.cn/tv/{name}.png"
         }
     ],
     "headers": [

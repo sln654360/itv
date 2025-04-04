@@ -783,4 +783,4 @@ CGTN西班牙语,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?ch
 中视购物,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000056&livemode=1&stbId=toShengfen&mode=1&$4M-hnbblive
 
 🎀更新公告,#genre#
-itv不稳定|pixman已上新教程！,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=toShengfen&mode=1&$4M-hnbblive
+itv不稳定。pixman已上新教程！,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=toShengfen&mode=1&$4M-hnbblive

@@ -1544,4 +1544,4 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=bestzb&C
 #EXTINF:-1 tvg-name="中视购物" tvg-logo="https://live.fanmingming.cn/tv/中视购物.png" group-title="综合频道",中视购物
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000056&livemode=1&stbId=toShengfen&mode=1&$4M-hnbblive
 #EXTINF:-1 tvg-name="itv不稳定，先切换到fmm-ipv6吧，最好部署肥羊" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🎀重要通知",itv不稳定，先切换到fmm-ipv6吧，最好部署肥羊
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000052&livemode=1&stbId=toShengfen&mode=1&
+https://gcore.jsdelivr.net/gh/sln654360/bptv/ts/miguerror.m3u8

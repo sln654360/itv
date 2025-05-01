@@ -4,64 +4,64 @@
 
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰卫视
 #EXTVLCOPT:ua=Herissmon/2016
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixtv_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
 #EXTVLCOPT:ua=Herissmon/2016
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixinfo_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
 #EXTVLCOPT:ua=Herissmon/2016
-http://iptv.herissmon.dpdns.org/Smart.php?id=hkphoenix_twn
+http://iptv.herissmon.dpdns.org/Smart1.php?id=hkphoenix_twn
 
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰卫视
 #EXTVLCOPT:user-agent=Herissmon/2016
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixtv_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
 #EXTVLCOPT:user-agent=Herissmon/2016
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixinfo_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
 #EXTVLCOPT:user-agent=Herissmon/2016
-http://iptv.herissmon.dpdns.org/Smart.php?id=hkphoenix_twn
+http://iptv.herissmon.dpdns.org/Smart1.php?id=hkphoenix_twn
 
 
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" ua="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰卫视
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixtv_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" ua="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixinfo_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" ua="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
-http://iptv.herissmon.dpdns.org/Smart.php?id=hkphoenix_twn
+http://iptv.herissmon.dpdns.org/Smart1.php?id=hkphoenix_twn
 
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰卫视
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixtv_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixinfo_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
-http://iptv.herissmon.dpdns.org/Smart.php?id=hkphoenix_twn
+http://iptv.herissmon.dpdns.org/Smart1.php?id=hkphoenix_twn
 
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" user-agent="okhttp/4.12.0" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰卫视
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixtv_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" user-agent="okhttp/4.12.0" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixinfo_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" user-agent="okhttp/4.12.0" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
-http://iptv.herissmon.dpdns.org/Smart.php?id=hkphoenix_twn
+http://iptv.herissmon.dpdns.org/Smart1.php?id=hkphoenix_twn
 
 
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰卫视
 #EXTVLCOPT:http-user-agent=Herissmon/2016
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixtv_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
 #EXTVLCOPT:http-user-agent=Herissmon/2016
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixinfo_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" user-agent="Herissmon/2016" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
 #EXTVLCOPT:http-user-agent=Herissmon/2016
-http://iptv.herissmon.dpdns.org/Smart.php?id=hkphoenix_twn
+http://iptv.herissmon.dpdns.org/Smart1.php?id=hkphoenix_twn
 
 
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" user-agent="okhttp/4.12.0" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰卫视
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixtv_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" user-agent="okhttp/4.12.0" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://iptv.herissmon.dpdns.org/Smart.php?id=phoenixinfo_hd
+http://iptv.herissmon.dpdns.org/Smart1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" user-agent="okhttp/4.12.0" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://iptv.herissmon.dpdns.org/Smart.php?id=hkphoenix_twn
+http://iptv.herissmon.dpdns.org/Smart1.php?id=hkphoenix_twn

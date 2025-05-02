@@ -3,7 +3,7 @@
         {
             "name": "肥羊TV助手专用",
             "type": 0,
-            "url": "https://fy.188766.xyz/?ip=192.168.1.2",
+            "url": "https://URL专用",
             "ua": "okhttp/3.15"
         }
     ],
@@ -11,8 +11,8 @@
         "raw.githubusercontent.com"
     ],
     "hosts": [
-        "bptv.freetv.top=kdt8g7ux.cnmnmsl.top",
-        "ywotttv.bj.chinamobile.com=ywotttv.bj.chinamobile.com.c8c10c27.d.cdn.10086.cn"
+        "ywotttv.bj.chinamobile.com=39.136.88.246",
+        "ywotttv.bj.chinamobile.com.c8c10c27.d.cdn.10086.cn=39.136.88.246"
     ],
     "ads": [
         "static-mozai.4gtv.tv"

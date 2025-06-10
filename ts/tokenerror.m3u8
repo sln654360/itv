@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:4.000000,
+https://gcore.jsdelivr.net/gh/sln654360/sln654360.github.io/ts/10000476370.ts
+#EXTINF:4.000000,
+https://gcore.jsdelivr.net/gh/sln654360/sln654360.github.io/ts/10000476371.ts
+#EXTINF:1.999822,
+https://gcore.jsdelivr.net/gh/sln654360/sln654360.github.io/ts/10000476372.ts
+#EXT-X-ENDLIST

@@ -1,4 +1,4 @@
-name: Sync EPG File
+name: Sync EPG_File
 
 on:
   schedule:

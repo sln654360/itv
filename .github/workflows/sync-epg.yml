@@ -1,10 +1,10 @@
 name: Sync EPG_File
 
 on:
-  schedule:
-    - cron: '30 16 * * *' # 北京时间 00:30
-    - cron: '05 2 * * *'  # 北京时间 10:05
-    - cron: '50 6 * * *'  # 北京时间 14:45
+ # schedule:
+   # - cron: '30 16 * * *' # 北京时间 00:30
+   # - cron: '05 2 * * *'  # 北京时间 10:05
+   # - cron: '50 6 * * *'  # 北京时间 14:45
   workflow_dispatch:
 
 jobs:

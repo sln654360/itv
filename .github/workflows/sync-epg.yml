@@ -1,0 +1,36 @@
+name: Sync EPG File
+
+on:
+  schedule:
+    - cron: '30 16 * * *' # 北京时间 00:30
+    - cron: '05 2 * * *'  # 北京时间 10:05
+    - cron: '50 6 * * *'  # 北京时间 14:45
+  workflow_dispatch:
+
+jobs:
+  sync-epg:
+    runs-on: ubuntu-latest
+
+    env:
+      SOURCE_REPO: 'kuke31/xmlgz'
+      SOURCE_FILE_PATH: 'e.xml'
+      SOURCE_BRANCH: 'main'
+      NEW_FILE_NAME: 'e.xml'
+
+    steps:
+    - name: Log run time
+      run: echo "Workflow started at $(date)"
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    - name: Download e.xml from source repository
+      run: |
+        curl -L --retry 3 --retry-delay 5 -o ${{ env.NEW_FILE_NAME }} https://raw.githubusercontent.com/${{ env.SOURCE_REPO }}/${{ env.SOURCE_BRANCH }}/${{ env.SOURCE_FILE_PATH }}
+    - name: Commit and push changes
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "actions@github.com"
+        git add ${{ env.NEW_FILE_NAME }}
+        git commit -m "Sync e.xml to ${{ env.NEW_FILE_NAME }}" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2.142856,
+https://gcore.jsdelivr.net/gh/sln654360/itv/ts/bYBJza0.ts
+#EXTINF:2.142856,
+https://gcore.jsdelivr.net/gh/sln654360/itv/ts/bYBJza1.ts
+#EXTINF:2.142856,
+https://gcore.jsdelivr.net/gh/sln654360/itv/ts/bYBJza2.ts
+#EXTINF:1.571289,
+https://gcore.jsdelivr.net/gh/sln654360/itv/ts/bYBJza3.ts
+#EXT-X-ENDLIST
